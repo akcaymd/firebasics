@@ -1,0 +1,1 @@
+Tutorial: [Firebase 9 Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb) by [Net Ninja](https://www.youtube.com/@NetNinja)
